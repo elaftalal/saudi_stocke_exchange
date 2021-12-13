@@ -10,7 +10,7 @@ Data science Project one of core element of T5 Boot camp from SDAIA Academy
 Using data science in the stock market is not new, but that doesn't apply for Saudi Stock Exchange (Tadawul), It needs to be explored and studied deeply, so we can cluster companies based on its behavior during the good and bad days. Also we can identify the days with a very large number of trades and try to understand the reason behind it. Finally we can predict the stocks prices.
 
 # Dataset
-To achieve the goal of this study the dataset California Housing Prices will be used. This dataset can be found at [Kaggle](https://www.kaggle.com/salwaalzahrani/saudi-stock-exchange-tadawul?select=Tadawul_stcks.csv).
+This dataset can be found at [Kaggle](https://www.kaggle.com/salwaalzahrani/saudi-stock-exchange-tadawul?select=Tadawul_stcks.csv).
 There is 593820 rows and 12 columns.
 
 symbol (Integer): The symbol or the reference number of the company.
